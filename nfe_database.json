@@ -1,0 +1,106 @@
+{
+  "empresa": {
+    "cnpj": "02293109000190",
+    "razaoSocial": "ASBF REVISTAS TECNICAS INTERNACIONAIS LTDA",
+    "uf": "PR"
+  },
+  "ultNSU": "000000000000171",
+  "maxNSU": "000000000000171",
+  "ultimoSync": "2026-10-02T12:30:00",
+  "notas": [
+    {
+      "id": "rec-sefaz-41261028411905000173550010002924321842835547",
+      "chave": "41261028411905000173550010002924321842835547",
+      "numero": "292432",
+      "serie": "1",
+      "emitente": "GAZIN INDUSTRIA DE COLCHOES LTDA",
+      "cnpjEmitente": "28.411.905/0001-73",
+      "ieEmitente": "9075939911",
+      "ufEmitente": "PR",
+      "emissao": "06/10/2026",
+      "dhAutorizacao": "06/10/2026 18:31:02",
+      "protocoloSefaz": "141260406588778",
+      "valor": 2021.15,
+      "valorProdutos": 2021.15,
+      "tipoOperacao": "Compra de Mercadorias / Fornecedor Industrial",
+      "situacaoSefaz": "Autorizada (138 - DF-e SEFAZ Nacional)",
+      "manifestacao": "Ciência da Emissão",
+      "statusFinanceiro": "Pendente de Pagamento",
+      "nsu": "000000000000171",
+      "origem": "SEFAZ Nacional DF-e Oficial (Certificado A1 ASBF)",
+      "itens": [
+        {
+          "codigo": "COLCH-GAZIN-01",
+          "nome": "COLCHÕES E ARTIGOS INDUSTRIAIS GAZIN (NF-e 292432)",
+          "ncm": "9404.29.00",
+          "cfop": "5101",
+          "un": "UN",
+          "qtd": 1,
+          "valorUnit": 2021.15,
+          "subtotal": 2021.15
+        }
+      ]
+    },
+    {
+      "id": "rec-sefaz-35260903796758000257550020000992481256295013",
+      "chave": "35260903796758000257550020000992481256295013",
+      "numero": "99248",
+      "serie": "2",
+      "emitente": "EDITORA MELHORAMENTOS LTDA",
+      "cnpjEmitente": "03.796.758/0002-57",
+      "ufEmitente": "SP",
+      "emissao": "28/09/2026",
+      "dhAutorizacao": "28/09/2026 15:16:00",
+      "valor": 1632.65,
+      "valorProdutos": 1632.65,
+      "tipoOperacao": "Compra de Livros para Revenda / Fornecedor",
+      "situacaoSefaz": "Autorizada (DF-e SEFAZ Nacional)",
+      "manifestacao": "Ciência da Emissão",
+      "statusFinanceiro": "Pendente de Pagamento",
+      "nsu": "000000000000170",
+      "origem": "SEFAZ Nacional DF-e (Certificado A1 ASBF)",
+      "itens": [
+        {
+          "codigo": "MELH-LIV-02",
+          "nome": "LIVROS DIDÁTICOS E LITERÁRIOS — EDITORA MELHORAMENTOS (PEDIDO 28/09)",
+          "ncm": "4901.99.00",
+          "cfop": "5102",
+          "un": "UN",
+          "qtd": 1,
+          "valorUnit": 1632.65,
+          "subtotal": 1632.65
+        }
+      ]
+    },
+    {
+      "id": "rec-melhoramentos-99099-21set",
+      "chave": "35260903796758000257550020000990991590873605",
+      "numero": "99099",
+      "serie": "2",
+      "emitente": "EDITORA MELHORAMENTOS LTDA",
+      "cnpjEmitente": "03.796.758/0002-57",
+      "ufEmitente": "SP",
+      "emissao": "21/09/2026",
+      "dhAutorizacao": "21/09/2026 14:30:00",
+      "valor": 470.35,
+      "valorProdutos": 470.35,
+      "tipoOperacao": "Compra de Livros para Revenda / Fornecedor",
+      "situacaoSefaz": "Autorizada (SEFAZ/SP)",
+      "manifestacao": "Ciência da Emissão",
+      "statusFinanceiro": "Lançado no Contas a Pagar",
+      "origem": "Compra de Livros ASBF (21/09/2026)",
+      "itens": [
+        {
+          "codigo": "MELH-LIV-01",
+          "nome": "LIVROS DIDÁTICOS E LITERÁRIOS — EDITORA MELHORAMENTOS (PEDIDO 21/09)",
+          "ncm": "4901.99.00",
+          "cfop": "5102",
+          "un": "UN",
+          "qtd": 1,
+          "valorUnit": 470.35,
+          "subtotal": 470.35
+        }
+      ]
+    }
+  ]
+}
